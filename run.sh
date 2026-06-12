@@ -8,5 +8,10 @@ elif [ "$1" == "build_reporter" ]; then
 docker build -t reporter ./reporter
 elif [ "$1" == "run_reporter" ]; then
 docker run --rm -v "$(pwd)/data:/data" reporter
+elif [ "$1" == "structure" ]; then
+ls -R .
+elif [ "$1" == "clear_data" ]; then
+find data -name "*.csv" -delete
+find data -name "*.html" -delete
 
 fi
