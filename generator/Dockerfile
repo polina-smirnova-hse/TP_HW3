@@ -1,3 +1,4 @@
 FROM python:3.12-slim
-COPY generate.py /generate.py
-ENTRYPOINT ["pytnon", "/generate.py", "/data"]
+WORKDIR /app
+COPY generate.py .
+ENTRYPOINT ["pytnon", "generate.py", "/app/data"]
