@@ -1,51 +1,51 @@
 flight,destination,airline,price
-122,Izmir,Air Arabia,17900
-125,Antalya,Emirates,21788
-150,Istanbul,Air Arabia,10024
-123,Abu Dhabi,Turkish Airlines,9451
-137,Male,Air Arabia,7663
-122,Bodrum,S7,19524
-131,Antalya,Air Arabia,22609
-150,Male,Turkish Airlines,11792
-105,Male,Emirates,23871
-140,Abu Dhabi,Air Arabia,20318
-150,Izmir,Turkish Airlines,9787
-111,Izmir,Ural Airlines,9052
-148,Male,Aeroflot,18001
-108,Doha,Air Arabia,11266
-102,Abu Dhabi,S7,12911
-140,Male,Air Arabia,18281
-102,Bodrum,S7,13980
-106,Dubai,Turkish Airlines,21893
-144,Izmir,Turkish Airlines,25128
-124,Antalya,Emirates,19553
-116,Doha,Aeroflot,18726
-150,Dubai,Emirates,24413
-131,Izmir,Ural Airlines,21979
-127,Abu Dhabi,Turkish Airlines,20545
-112,Bodrum,Air Arabia,16304
-130,Abu Dhabi,S7,12600
-105,Istanbul,Ural Airlines,9090
-128,Abu Dhabi,Ural Airlines,14511
-138,Bodrum,Aeroflot,9127
-102,Doha,Air Arabia,26333
-122,Abu Dhabi,Air Arabia,28937
-146,Antalya,Turkish Airlines,10695
-127,Antalya,Air Arabia,29429
-100,Bodrum,Air Arabia,15242
-124,Male,Aeroflot,16004
-149,Antalya,S7,9530
-138,Male,S7,28527
-119,Antalya,Turkish Airlines,9358
-137,Abu Dhabi,Aeroflot,8482
-106,Istanbul,Emirates,18440
-145,Antalya,Emirates,27002
-119,Male,Ural Airlines,16184
-110,Doha,Emirates,9848
-110,Izmir,Aeroflot,23126
-128,Antalya,S7,12547
-150,Abu Dhabi,Aeroflot,28227
-138,Male,Emirates,13430
-122,Bodrum,Ural Airlines,7652
-126,Abu Dhabi,Ural Airlines,24213
-139,Abu Dhabi,Ural Airlines,28022
+119,Antalya,S7,12002
+146,Bodrum,Turkish Airlines,10961
+120,Abu Dhabi,Emirates,21483
+143,Dubai,Emirates,11113
+126,Izmir,S7,27164
+133,Istanbul,Emirates,22993
+106,Dubai,S7,7667
+147,Antalya,Air Arabia,7216
+117,Male,Emirates,26137
+129,Izmir,Ural Airlines,14594
+129,Antalya,Emirates,7338
+147,Bodrum,S7,27216
+125,Istanbul,Aeroflot,26894
+145,Izmir,Air Arabia,20622
+112,Izmir,Air Arabia,15575
+149,Male,Aeroflot,27254
+122,Istanbul,Air Arabia,28073
+136,Izmir,S7,22080
+100,Male,S7,20077
+144,Antalya,Aeroflot,29761
+103,Izmir,Ural Airlines,7593
+102,Dubai,Emirates,20374
+141,Doha,Air Arabia,20470
+129,Male,S7,23360
+145,Izmir,S7,24360
+114,Male,Ural Airlines,7634
+106,Abu Dhabi,Aeroflot,23939
+115,Izmir,Ural Airlines,24229
+118,Dubai,Emirates,28161
+118,Bodrum,Aeroflot,16586
+143,Izmir,S7,12586
+124,Istanbul,Aeroflot,15328
+100,Doha,Air Arabia,14924
+149,Bodrum,Emirates,12211
+128,Izmir,Aeroflot,11813
+109,Male,Turkish Airlines,13494
+113,Istanbul,Aeroflot,9556
+132,Abu Dhabi,Turkish Airlines,26974
+118,Abu Dhabi,Air Arabia,24245
+112,Antalya,Air Arabia,23142
+148,Male,Turkish Airlines,22582
+146,Male,S7,7058
+123,Antalya,Aeroflot,28602
+127,Male,S7,24207
+113,Abu Dhabi,Air Arabia,18903
+120,Bodrum,S7,13446
+112,Istanbul,Ural Airlines,11594
+142,Dubai,Ural Airlines,26245
+121,Antalya,Aeroflot,28772
+100,Abu Dhabi,Turkish Airlines,26137
