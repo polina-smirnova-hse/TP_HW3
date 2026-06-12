@@ -14,6 +14,7 @@ elif [ "$1" == "clear_data" ]; then
 find data -name "*.csv" -delete
 find data -name "*.html" -delete
 elif [ "$1" == "inside_generator" ]; then
-docker run -it --entrypoint bash generat
-ls -la /app/data
+docker run --rm -v "$(pwd)"/data:/app/data --entrypoint ls generat -la /app/data
+elif [ "$1" == "inside_reporter" ]; then
+docker run --rm -v "$(pwd)"/data:/data --entrypoint ls reporter -la /data
 fi
