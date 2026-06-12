@@ -8,4 +8,5 @@ elif [ "$1" == "build_reporter" ]; then
 docker build -t reporter ./reporter
 elif [ "$1" == "run_reporter" ]; then
 docker run --rm -v "$(pwd)/data:/data" reporter
+
 fi
