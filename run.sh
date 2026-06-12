@@ -1,4 +1,4 @@
-if [ "$1" == "build_generator" ; then
+if [ "$1" == "build_generator" ]; then
 docker build -t generat ./generator
 elif [ "$1" == "run_generator" ]; then
 docker run --rm -v "$(pwd)/data:/app/data" generat
