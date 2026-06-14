@@ -8,8 +8,8 @@ Docker-образ собирается на основе Python
 Запускает шаблонный скрипт report.js, в результате работы создает файл data/report.html
 Docker-образ работает на основе Node.js
 ## Использованные источники:
-1. https://docs.docker.com/engine/storage/bind-mounts/#start-a-container-with-a-bind-mount (официальная документация)
-монтирование директории хоста. Необходимо для того, чтобы файлы, создаваемые в контейнре, автоматически сохранялись в папке /data. Таким образом к ним будет доступ (необходимо для работы reportet после работы generator)
+1. https://docs.docker.com/engine/storage/bind-mounts/#start-a-container-with-a-bind-mount, https://docs.docker.com/build/cache/optimize (официальная документация)
+монтирование директории хоста. Необходимо для того, чтобы файлы, создаваемые в контейнре, автоматически сохранялись в папке data. Таким образом к ним будет доступ (необходимо для работы reporter после работы generator). Также на этой основе реализованы команды inside_generator и inside_reporter, которые проверяют корректно ли видят контйенеры содержимое папки data
 2. https://habr.com/ru/articles/1041784/ (habr)
 установка зависимостей в Dockerfile reporter на нужном этапе 
 3. https://habr.com/ru/articles/1003550/ (habr)
